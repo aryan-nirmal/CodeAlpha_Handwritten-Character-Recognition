@@ -70,7 +70,7 @@ Input (28×28×1)
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_HandwrittenCharacterRecognition.git
+git clone https://github.com/aryan-nirmal/CodeAlpha_HandwrittenCharacterRecognition.git
 cd CodeAlpha_HandwrittenCharacterRecognition
 ```
 
